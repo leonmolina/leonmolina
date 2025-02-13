@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hey 👋
+I'm Leon, a Software Developer based in Brazil and enthusiastic about Mobile Apps.
 
+### About me
+  - 🔭 Working on an AI Chatbot Assistant and a Full-stack project for HP
+  - 📚 Studying Kotlin and DSA
 <!--
 **leonmolina/leonmolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
