@@ -1,9 +1,37 @@
 ## Hey 👋
-I'm Leon, a Software Developer based in Brazil and enthusiastic about Mobile Apps.
 
-### About me
-  - 🔭 Working on an AI Chatbot Assistant and a Full-stack project for HP
-  - 📚 Studying Kotlin and DSA
+I'm Leon — a Software Engineer based in Brazil 🇧🇷  
+Backend-focused, with strong experience in **Node.js and TypeScript**, building scalable systems and internal developer platforms.
+
+---
+
+### 🚀 What I work on
+
+- 🧠 Developer Productivity & Internal Platforms (Backstage)
+- ⚙️ API design, service integrations & metadata systems
+- 🌐 Fullstack development with React
+- 🤖 AI-powered tooling & workflow automation
+
+---
+
+### 🛠 Tech I use the most
+
+- **Backend:** Node.js, TypeScript, GraphQL
+- **Frontend:** React, Next.js
+- **Platform:** Backstage, CI/CD, Docker
+- **Other:** OpenSearch, Redis
+
+---
+
+### 📚 Currently exploring
+
+- Distributed systems & search infrastructure  
+- Architecture patterns for scalable systems  
+- Data structures and algorithms
+
+---
+
+Feel free to connect or reach out 🙂
 <!--
 **leonmolina/leonmolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
